@@ -28,5 +28,5 @@ function prime(a,b){
         
 }
 
-prime(4,7)
+prime(1,100)
 
