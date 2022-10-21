@@ -37,4 +37,4 @@ function multiples(){
 
 }
 
-multiples()
+multiples();
