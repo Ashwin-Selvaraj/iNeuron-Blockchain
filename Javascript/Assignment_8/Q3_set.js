@@ -8,3 +8,4 @@ if (set1.has(8)) {
 } else {
   console.log("The created set doesn't have 8 in it");
 }
+//
