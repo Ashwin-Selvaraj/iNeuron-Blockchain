@@ -35,4 +35,4 @@ function studentGrade(marks) {
 
 }
 
-studentGrade(99);
+studentGrade(99)
