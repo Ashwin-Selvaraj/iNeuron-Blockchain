@@ -3,7 +3,7 @@ function find_largest(n) {
   let arr1 = [];
   let dummy = [3, 45, 6, 7, 23, 5, 7, 8];
   for (let j = 0; j < arr.length; j++) {
-    let max = 0
+    let max = 0;
     for (let i = 0; i < dummy.length; i++) {
       if (dummy[i] > max) {
         max = dummy[i];
