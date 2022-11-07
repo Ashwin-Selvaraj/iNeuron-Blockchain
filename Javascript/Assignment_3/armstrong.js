@@ -1,6 +1,6 @@
 function armstrong(n){
 
-    let a=n;
+    let a=n
     let sum=0;
     while(n/10!=0)
     {
