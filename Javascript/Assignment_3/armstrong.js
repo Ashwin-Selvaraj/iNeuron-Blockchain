@@ -6,7 +6,7 @@ function armstrong(n){
     {
         let rem=n%10;
         sum=sum+(rem*rem*rem);
-        n=Math.floor(n/10)
+        n=Math.floor(n/10);
     }
     if(a==sum)
     {
