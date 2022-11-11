@@ -1,6 +1,6 @@
 function computeDash(n)
 {
-    let numToStr = n.toString()
+    let numToStr = n.toString();
     let arrOfNum = numToStr.split("");
     let n1,n2=0
     let finalStr=arrOfNum[0];
