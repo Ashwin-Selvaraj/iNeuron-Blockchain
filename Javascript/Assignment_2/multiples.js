@@ -4,7 +4,7 @@ function multiplesOf3()
     for(let i=0;i<1000;i++){
         if(i%3==0)
         {
-            sum1=sum1+i
+            sum1=sum1+i;
         }
     }
     return sum1;
