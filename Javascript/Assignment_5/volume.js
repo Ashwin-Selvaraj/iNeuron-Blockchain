@@ -2,7 +2,7 @@ class Cylinder
 {
     getVolume(r,h)
     {
-        const pi = Math.PI;
+        const pi = Math.PI
         let volume = pi*r*r*h;
         return volume;
     }
