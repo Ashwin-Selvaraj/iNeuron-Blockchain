@@ -1,4 +1,4 @@
-let set1 = new Set()
+let set1 = new Set();
 while (set1.size < 4) {
   set1.add(Math.round(Math.random() * 10))
 }
