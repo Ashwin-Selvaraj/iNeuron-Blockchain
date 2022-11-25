@@ -3,7 +3,7 @@ function matchHouse(n) {
 
     if(n==1)
     {
-        return 6
+        return 6;
     }
     else if(n<0 || typeof(n)!="number")
     {
