@@ -41,4 +41,4 @@ console.log((obj2.getVolume(5,200)).toFixed(4));
 
 
 let obj3 = new Cone();
-console.log((obj3.getVolume(5,200)).toFixed(4));
+console.log((obj3.getVolume(5,200)).toFixed(4))
